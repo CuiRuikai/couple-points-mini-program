@@ -1,0 +1,9 @@
+Error: TencentCloud API error: {
+    "Response": {
+        "Error": {
+            "Code": "FailedOperation.UpdateFunctionCode",
+            "Message": "当前函数处于Creating状态，无法进行此操作，请稍后重试。"
+        },
+        "RequestId": "069a296e-1b6a-421b-8a5a-025441e20612"
+    }
+}

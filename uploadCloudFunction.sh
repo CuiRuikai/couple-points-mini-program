@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-8gfen9e8650c26e0 --n quickstartFunctions --r --project "/Users/ruikai/WeChatProjects/couple-points" --report_first --report
