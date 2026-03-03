@@ -1,0 +1,13 @@
+{
+    "envId": "love-ledger-1gr28vl1aacde700",
+    "functionRoot": "./cloudfunctions/functions",
+    "functions": [
+        {
+            "name": "get_data",
+            "timeout": 15,
+            "runtime": "Nodejs18.15",
+            "installDependency": true,
+            "handler": "index.main"
+        }
+    ]
+}

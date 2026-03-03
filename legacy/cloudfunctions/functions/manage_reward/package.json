@@ -1,0 +1,9 @@
+{
+  "name": "manage_reward",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@cloudbase/node-sdk": "latest"
+  }
+}

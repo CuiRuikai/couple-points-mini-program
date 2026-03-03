@@ -1,0 +1,7 @@
+{
+  "name": "manage_couple",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.9.1"
+  }
+}

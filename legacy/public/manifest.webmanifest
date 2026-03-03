@@ -1,0 +1,17 @@
+{
+  "name": "情侣空间",
+  "short_name": "情侣空间",
+  "description": "情侣积分与打卡私密空间",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f1e6",
+  "theme_color": "#f6f1e6",
+  "icons": [
+    {
+      "src": "icons/icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
